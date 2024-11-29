@@ -1,0 +1,1052 @@
+[
+    {
+        "frage": "Was bedeutet OOP in der Programmierung?",
+        "optionen": [
+            "Object-Oriented Programming",
+            "Open-Source Programming",
+            "Over-Optimized Processing",
+            "One-On-One Processing"
+        ],
+        "antwort": "Object-Oriented Programming"
+    },
+    {
+        "frage": "Welches dieser Programme ist ein Texteditor?",
+        "optionen": [
+            "Vim",
+            "GCC",
+            "GDB",
+            "Make"
+        ],
+        "antwort": "Vim"
+    },
+    {
+        "frage": "Welches Protokoll wird für E-Mails verwendet?",
+        "optionen": [
+            "HTTP",
+            "FTP",
+            "SMTP",
+            "SSH"
+        ],
+        "antwort": "SMTP"
+    },
+    {
+        "frage": "Was bedeutet die Abkürzung ERP?",
+        "optionen": [
+            "Enterprise Resource Planning",
+            "Enterprise Risk Prevention",
+            "Effective Resource Pooling",
+            "Economic Resource Platform"
+        ],
+        "antwort": "Enterprise Resource Planning"
+    },
+    {
+        "frage": "Was ist die Hauptfunktion eines Betriebssystems?",
+        "optionen": [
+            "Es stellt eine grafische Benutzeroberfläche zur Verfügung.",
+            "Es verwaltet die Hardware-Ressourcen des Computers.",
+            "Es optimiert die Netzwerkkonfiguration.",
+            "Es überwacht den Energieverbrauch."
+        ],
+        "antwort": "Es verwaltet die Hardware-Ressourcen des Computers."
+    },
+    {
+        "frage": "Welche der folgenden Datenbankabfragen ist eine SQL-Abfrage?",
+        "optionen": [
+            "SELECT * FROM users;",
+            "find . -name 'users'",
+            "git commit -m 'Update'",
+            "sudo apt-get update"
+        ],
+        "antwort": "SELECT * FROM users;"
+    },
+    {
+        "frage": "Welches ist kein NoSQL-Datenbanksystem?",
+        "optionen": [
+            "MongoDB",
+            "Redis",
+            "PostgreSQL",
+            "Cassandra"
+        ],
+        "antwort": "PostgreSQL"
+    },
+    {
+        "frage": "Welches dieser Frameworks wird häufig für Webentwicklung genutzt?",
+        "optionen": [
+            "React",
+            "MATLAB",
+            "AutoCAD",
+            "Blender"
+        ],
+        "antwort": "React"
+    },
+    {
+        "frage": "Welcher dieser Begriffe gehört nicht zu den Phasen des Softwareentwicklungszyklus?",
+        "optionen": [
+            "Planung",
+            "Entwurf",
+            "Marketing",
+            "Testen"
+        ],
+        "antwort": "Marketing"
+    },
+    {
+        "frage": "Was ist die Hauptaufgabe eines Firewalls in einem Netzwerk?",
+        "optionen": [
+            "Es speichert Daten.",
+            "Es verwaltet Benutzerrechte.",
+            "Es schützt vor unautorisierten Zugriffen.",
+            "Es optimiert die Netzwerkgeschwindigkeit."
+        ],
+        "antwort": "Es schützt vor unautorisierten Zugriffen."
+    },
+    {
+        "frage": "Was ist ein Compiler?",
+        "optionen": [
+            "Ein Werkzeug zur Netzwerkanalyse",
+            "Ein Programm zur Übersetzung von Quellcode in Maschinencode",
+            "Ein Gerät zur Speicherverwaltung",
+            "Eine Plattform zur Versionskontrolle"
+        ],
+        "antwort": "Ein Programm zur Übersetzung von Quellcode in Maschinencode"
+    },
+    {
+        "frage": "Welches dieser Protokolle gehört zur Anwendungsschicht des OSI-Modells?",
+        "optionen": [
+            "FTP",
+            "TCP",
+            "IP",
+            "ARP"
+        ],
+        "antwort": "FTP"
+    },
+    {
+        "frage": "Was ist ein Deadlock?",
+        "optionen": [
+            "Ein Sicherheitsproblem",
+            "Ein Zustand, bei dem zwei oder mehr Prozesse auf Ressourcen warten, die durch andere Prozesse belegt sind",
+            "Ein Typ von Datenbankindex",
+            "Ein Kommunikationsfehler im Netzwerk"
+        ],
+        "antwort": "Ein Zustand, bei dem zwei oder mehr Prozesse auf Ressourcen warten, die durch andere Prozesse belegt sind"
+    },
+    {
+        "frage": "Was ist der Zweck von Unit-Tests?",
+        "optionen": [
+            "Sicherzustellen, dass einzelne Programmteile wie erwartet funktionieren",
+            "Sicherzustellen, dass das System insgesamt korrekt funktioniert",
+            "Das Design der Benutzerschnittstelle zu optimieren",
+            "Die Sicherheitslücken im Quellcode zu finden"
+        ],
+        "antwort": "Sicherzustellen, dass einzelne Programmteile wie erwartet funktionieren"
+    },
+    {
+        "frage": "Welches der folgenden ist ein Beispiel für eine imperative Programmiersprache?",
+        "optionen": [
+            "Haskell",
+            "Prolog",
+            "Python",
+            "Lisp"
+        ],
+        "antwort": "Python"
+    },
+    {
+        "frage": "Was beschreibt der Begriff 'Big-O-Notation'?",
+        "optionen": [
+            "Die Komplexität eines Algorithmus",
+            "Die Kapazität eines Speichersystems",
+            "Die Geschwindigkeit eines Netzwerks",
+            "Die Sicherheitsstufe einer Verschlüsselung"
+        ],
+        "antwort": "Die Komplexität eines Algorithmus"
+    },
+    {
+        "frage": "Was ist der Unterschied zwischen einem Compiler und einem Interpreter?",
+        "optionen": [
+            "Ein Compiler führt den Code Zeile für Zeile aus, ein Interpreter kompiliert den gesamten Code auf einmal.",
+            "Ein Compiler übersetzt den gesamten Code auf einmal in Maschinensprache, ein Interpreter führt den Code Zeile für Zeile aus.",
+            "Ein Compiler ist langsamer als ein Interpreter.",
+            "Ein Interpreter wird nur für Webanwendungen verwendet."
+        ],
+        "antwort": "Ein Compiler übersetzt den gesamten Code auf einmal in Maschinensprache, ein Interpreter führt den Code Zeile für Zeile aus."
+    },
+    {
+        "frage": "Welches dieser Unternehmen ist bekannt für die Entwicklung von Linux?",
+        "optionen": [
+            "Microsoft",
+            "Apple",
+            "IBM",
+            "Linus Torvalds"
+        ],
+        "antwort": "Linus Torvalds"
+    },
+    {
+        "frage": "Welches der folgenden Tools wird zur Versionskontrolle verwendet?",
+        "optionen": [
+            "Docker",
+            "Git",
+            "Jenkins",
+            "Postman"
+        ],
+        "antwort": "Git"
+    },
+    {
+        "frage": "Was ist ein VPN?",
+        "optionen": [
+            "Ein virtuelles Netzwerk für die sichere Kommunikation über das Internet",
+            "Ein Hardwaregerät zur Datenverschlüsselung",
+            "Ein Protokoll zur Optimierung der Netzwerkkapazität",
+            "Eine Firewall zur Überwachung des Datenverkehrs"
+        ],
+        "antwort": "Ein virtuelles Netzwerk für die sichere Kommunikation über das Internet"
+    },
+    {
+        "frage": "Was bedeutet SSD?",
+        "optionen": [
+            "Solid-State Drive",
+            "Secure System Disk",
+            "Software Service Deployment",
+            "System Software Data"
+        ],
+        "antwort": "Solid-State Drive"
+    },
+    {
+        "frage": "Was ist der Zweck von RAID?",
+        "optionen": [
+            "Zur Verbesserung der Datensicherheit und Leistung durch Kombination mehrerer Festplatten",
+            "Zur Beschleunigung der Netzwerkgeschwindigkeit",
+            "Zur Verwaltung der Benutzerauthentifizierung",
+            "Zur Durchführung von Sicherheitsüberprüfungen"
+        ],
+        "antwort": "Zur Verbesserung der Datensicherheit und Leistung durch Kombination mehrerer Festplatten"
+    },
+    {
+        "frage": "Was bedeutet die Abkürzung CSS im Webdesign?",
+        "optionen": [
+            "Cascading Style Sheets",
+            "Creative Style Scripts",
+            "Computer Scripting Syntax",
+            "Cascading Script System"
+        ],
+        "antwort": "Cascading Style Sheets"
+    },
+    {
+        "frage": "Welche Methode zur Verschlüsselung wird häufig für HTTPS verwendet?",
+        "optionen": [
+            "RSA",
+            "SHA-256",
+            "AES",
+            "MD5"
+        ],
+        "antwort": "RSA"
+    },
+    {
+        "frage": "Was beschreibt der Begriff 'Encapsulation' in der Programmierung?",
+        "optionen": [
+            "Das Verbergen von Implementierungsdetails und das Bereitstellen einer klaren Schnittstelle",
+            "Die Optimierung von Datenbankabfragen",
+            "Das Kombinieren von zwei oder mehr Prozessen",
+            "Das Verwalten von Speicherressourcen"
+        ],
+        "antwort": "Das Verbergen von Implementierungsdetails und das Bereitstellen einer klaren Schnittstelle"
+    },
+    {
+        "frage": "Welches dieser Tools wird für die Container-Orchestrierung verwendet?",
+        "optionen": [
+            "Kubernetes",
+            "Apache",
+            "Nginx",
+            "MySQL"
+        ],
+        "antwort": "Kubernetes"
+    },
+    {
+        "frage": "Welche Art von Malware verschlüsselt die Daten auf einem Computer und fordert ein Lösegeld?",
+        "optionen": [
+            "Ransomware",
+            "Virus",
+            "Trojaner",
+            "Spyware"
+        ],
+        "antwort": "Ransomware"
+    },
+    {
+        "frage": "Was ist die Hauptaufgabe eines Proxy-Servers?",
+        "optionen": [
+            "Er vermittelt Anfragen zwischen Clients und anderen Servern.",
+            "Er speichert die Benutzerdaten.",
+            "Er überwacht den Netzwerkverkehr.",
+            "Er verwaltet die Authentifizierung."
+        ],
+        "antwort": "Er vermittelt Anfragen zwischen Clients und anderen Servern."
+    },
+    {
+        "frage": "Was bedeutet die Abkürzung HTTP?",
+        "optionen": [
+            "Hypertext Transfer Protocol",
+            "Hyperlink Text Transfer Protocol",
+            "Hypertext Transmission Protocol",
+            "High Text Transfer Protocol"
+        ],
+        "antwort": "Hypertext Transfer Protocol"
+    },
+    {
+        "frage": "Was ist ein Load Balancer?",
+        "optionen": [
+            "Ein Gerät oder Programm, das den eingehenden Netzwerkverkehr auf mehrere Server verteilt",
+            "Ein System zur Verwaltung von Speicherkapazität",
+            "Eine Anwendung zur Überwachung von Datenverkehr",
+            "Ein Protokoll zur Optimierung der Netzwerkgeschwindigkeit"
+        ],
+        "antwort": "Ein Gerät oder Programm, das den eingehenden Netzwerkverkehr auf mehrere Server verteilt"
+    },
+    {
+        "frage": "Welche Methode zur Authentifizierung wird in modernen Webanwendungen oft verwendet?",
+        "optionen": [
+            "OAuth",
+            "SMTP",
+            "FTP",
+            "TCP/IP"
+        ],
+        "antwort": "OAuth"
+    },
+    {
+        "frage": "Welcher Port wird standardmäßig für HTTPS verwendet?",
+        "optionen": [
+            "443",
+            "80",
+            "21",
+            "25"
+        ],
+        "antwort": "443"
+    },
+    {
+        "frage": "Was ist der Unterschied zwischen einem Virus und einem Wurm in der Computerwelt?",
+        "optionen": [
+            "Ein Virus benötigt einen Wirt, ein Wurm verbreitet sich selbstständig.",
+            "Ein Wurm benötigt einen Wirt, ein Virus verbreitet sich selbstständig.",
+            "Ein Virus ist harmlos, ein Wurm nicht.",
+            "Ein Virus betrifft Hardware, ein Wurm Software."
+        ],
+        "antwort": "Ein Virus benötigt einen Wirt, ein Wurm verbreitet sich selbstständig."
+    },
+    {
+        "frage": "Was beschreibt der Begriff 'Normalization' in Datenbanken?",
+        "optionen": [
+            "Der Prozess, Daten in einer Datenbank effizient zu organisieren, um Redundanzen zu minimieren",
+            "Der Prozess der Sicherstellung von Datensicherheit",
+            "Das Verschlüsseln von Daten für den sicheren Transfer",
+            "Das Komprimieren von Daten zur Speicheroptimierung"
+        ],
+        "antwort": "Der Prozess, Daten in einer Datenbank effizient zu organisieren, um Redundanzen zu minimieren"
+    },
+    {
+        "frage": "Was ist ein Botnet?",
+        "optionen": [
+            "Ein Netzwerk von infizierten Computern, die von einem Angreifer kontrolliert werden",
+            "Ein System zur Überwachung von Netzwerkverkehr",
+            "Ein Gerät zur Verbesserung der Netzwerksicherheit",
+            "Eine Software zur Verwaltung von Servern"
+        ],
+        "antwort": "Ein Netzwerk von infizierten Computern, die von einem Angreifer kontrolliert werden"
+    },
+    {
+        "frage": "Welches dieser Konzepte gehört nicht zur agilen Softwareentwicklung?",
+        "optionen": [
+            "Wasserfallmodell",
+            "Scrum",
+            "Kanban",
+            "Extreme Programming (XP)"
+        ],
+        "antwort": "Wasserfallmodell"
+    },
+    {
+        "frage": "Welche Funktion hat die MAC-Adresse?",
+        "optionen": [
+            "Sie identifiziert physische Geräte im Netzwerk eindeutig.",
+            "Sie verschlüsselt Netzwerkdaten.",
+            "Sie optimiert die Geschwindigkeit eines Netzwerks.",
+            "Sie ist eine Sicherheitsmaßnahme gegen Phishing."
+        ],
+        "antwort": "Sie identifiziert physische Geräte im Netzwerk eindeutig."
+    },
+    {
+        "frage": "Was ist der Hauptvorteil von Cloud-Computing?",
+        "optionen": [
+            "Skalierbarkeit und Zugriff auf Ressourcen über das Internet",
+            "Es erfordert keine Sicherheitsmaßnahmen",
+            "Es bietet unbegrenzten Speicherplatz",
+            "Es erfordert keine Internetverbindung"
+        ],
+        "antwort": "Skalierbarkeit und Zugriff auf Ressourcen über das Internet"
+    },
+    {
+        "frage": "Welcher dieser Typen von Künstlicher Intelligenz ist am weitesten fortgeschritten?",
+        "optionen": [
+            "Narrow AI",
+            "Weak AI",
+            "General AI",
+            "Reactive AI"
+        ],
+        "antwort": "General AI"
+    },
+    {
+        "frage": "Was ist der Hauptunterschied zwischen IPv4 und IPv6?",
+        "optionen": [
+            "Die Anzahl der möglichen Adressen",
+            "Die Geschwindigkeit der Datenübertragung",
+            "Die Sicherheit der Daten",
+            "Die Methode der Datenverschlüsselung"
+        ],
+        "antwort": "Die Anzahl der möglichen Adressen"
+    },
+    {
+        "frage": "Welcher dieser Begriffe steht für eine Methode zur Sicherstellung der Integrität von Daten?",
+        "optionen": [
+            "Hashing",
+            "Encryption",
+            "Decryption",
+            "Compression"
+        ],
+        "antwort": "Hashing"
+    },
+    {
+        "frage": "Was ist ein Hauptvorteil von SSDs gegenüber HDDs?",
+        "optionen": [
+            "Höhere Geschwindigkeit",
+            "Größere Speicherkapazität",
+            "Geringerer Preis",
+            "Bessere Kompatibilität mit älterer Software"
+        ],
+        "antwort": "Höhere Geschwindigkeit"
+    },
+    {
+        "frage": "Was ist das Ziel von DevOps?",
+        "optionen": [
+            "Die enge Zusammenarbeit zwischen Entwicklungs- und Betriebsteams zu fördern",
+            "Die Anzahl der Programmierer in einem Team zu erhöhen",
+            "Das Marketing für Softwareprodukte zu optimieren",
+            "Die Netzwerksicherheit zu verbessern"
+        ],
+        "antwort": "Die enge Zusammenarbeit zwischen Entwicklungs- und Betriebsteams zu fördern"
+    },
+    {
+        "frage": "Welche dieser Programmiersprachen ist besonders für Datenanalyse und maschinelles Lernen bekannt?",
+        "optionen": [
+            "Python",
+            "Java",
+            "C++",
+            "PHP"
+        ],
+        "antwort": "Python"
+    },
+    {
+        "frage": "Welche dieser SQL-Anweisungen wird verwendet, um Daten in eine Tabelle einzufügen?",
+        "optionen": [
+            "INSERT INTO",
+            "SELECT FROM",
+            "UPDATE",
+            "DELETE FROM"
+        ],
+        "antwort": "INSERT INTO"
+    },
+    {
+        "frage": "Welcher dieser Begriffe gehört zu den Schichten des TCP/IP-Modells?",
+        "optionen": [
+            "Transport",
+            "Datenfluss",
+            "Verschlüsselung",
+            "Optimierung"
+        ],
+        "antwort": "Transport"
+    },
+    {
+        "frage": "Was ist der Zweck einer API?",
+        "optionen": [
+            "Es ermöglicht die Kommunikation zwischen verschiedenen Softwareanwendungen.",
+            "Es verschlüsselt Daten für den sicheren Transfer.",
+            "Es verwaltet die Benutzerauthentifizierung.",
+            "Es speichert und analysiert große Datenmengen."
+        ],
+        "antwort": "Es ermöglicht die Kommunikation zwischen verschiedenen Softwareanwendungen."
+    },
+    {
+        "frage": "Was ist ein Hauptmerkmal von objektorientierter Programmierung (OOP)?",
+        "optionen": [
+            "Verwendung von Klassen und Objekten",
+            "Verwendung von Funktionsaufrufen",
+            "Verwendung von Schleifen und Bedingungen",
+            "Verwendung von globalen Variablen"
+        ],
+        "antwort": "Verwendung von Klassen und Objekten"
+    },
+    {
+        "frage": "Welches dieser Konzepte ist typisch für funktionale Programmierung?",
+        "optionen": [
+            "Immutable Daten",
+            "Globale Zustände",
+            "Vererbung",
+            "Prozeduren"
+        ],
+        "antwort": "Immutable Daten"
+    },
+    {
+        "frage": "Was ist eine typische Anwendung von Web-Sockets?",
+        "optionen": [
+            "Echtzeit-Kommunikation",
+            "Datenbankabfragen",
+            "Dateiverschlüsselung",
+            "Netzwerksicherheit"
+        ],
+        "antwort": "Echtzeit-Kommunikation"
+    },
+    {
+        "frage": "Welche der folgenden Technologien wird am häufigsten für die Backend-Entwicklung verwendet?",
+        "optionen": [
+            "Node.js",
+            "React",
+            "Angular",
+            "Vue.js"
+        ],
+        "antwort": "Node.js"
+    },
+    {
+        "frage": "Was ist eine DDoS-Attacke?",
+        "optionen": [
+            "Ein Angriff, bei dem ein Netzwerk durch eine Überflutung von Anfragen lahmgelegt wird",
+            "Ein Angriff, bei dem die Benutzeranmeldung kompromittiert wird",
+            "Ein Angriff, bei dem die Daten verschlüsselt werden",
+            "Ein Angriff, bei dem das Netzwerk überwacht wird"
+        ],
+        "antwort": "Ein Angriff, bei dem ein Netzwerk durch eine Überflutung von Anfragen lahmgelegt wird"
+    },
+    {
+        "frage": "Was bedeutet der Begriff 'Continuous Integration' (CI)?",
+        "optionen": [
+            "Das regelmäßige Zusammenführen von Code-Änderungen in ein gemeinsames Repository",
+            "Die kontinuierliche Überwachung des Netzwerkverkehrs",
+            "Das ständige Aktualisieren der Datenbank",
+            "Das regelmäßige Überprüfen der Benutzerdaten"
+        ],
+        "antwort": "Das regelmäßige Zusammenführen von Code-Änderungen in ein gemeinsames Repository"
+    },
+    {
+        "frage": "Welches dieser Protokolle wird zur Übertragung von Dateien verwendet?",
+        "optionen": [
+            "FTP",
+            "HTTP",
+            "SMTP",
+            "SSH"
+        ],
+        "antwort": "FTP"
+    },
+    {
+        "frage": "Was ist der Zweck von Token-Based Authentication?",
+        "optionen": [
+            "Zur Authentifizierung von Benutzern durch die Verwendung von Token anstelle von Passwörtern",
+            "Zum Verschlüsseln von Dateien vor der Übertragung",
+            "Zum Komprimieren von Daten zur Speicheroptimierung",
+            "Zur Verbesserung der Netzwerksicherheit durch Firewall-Regeln"
+        ],
+        "antwort": "Zur Authentifizierung von Benutzern durch die Verwendung von Token anstelle von Passwörtern"
+    },
+    {
+        "frage": "Welche Art von Netzwerk verwendet normalerweise keine zentralen Server?",
+        "optionen": [
+            "Peer-to-Peer (P2P)",
+            "Client-Server",
+            "Cloud-basiertes Netzwerk",
+            "Virtual Private Network (VPN)"
+        ],
+        "antwort": "Peer-to-Peer (P2P)"
+    },
+    {
+        "frage": "Was ist der Zweck eines Algorithmus in der Programmierung?",
+        "optionen": [
+            "Eine Schritt-für-Schritt-Anweisung zur Lösung eines Problems",
+            "Eine Methode zur Datenverschlüsselung",
+            "Ein Gerät zur Speicherverwaltung",
+            "Eine Plattform zur Versionskontrolle"
+        ],
+        "antwort": "Eine Schritt-für-Schritt-Anweisung zur Lösung eines Problems"
+    },
+    {
+        "frage": "Welches dieser Betriebssysteme ist Open Source?",
+        "optionen": [
+            "Linux",
+            "Windows",
+            "macOS",
+            "iOS"
+        ],
+        "antwort": "Linux"
+    },
+    {
+        "frage": "Welche dieser Anfragen wird verwendet, um eine Datenbank zu aktualisieren?",
+        "optionen": [
+            "UPDATE",
+            "SELECT",
+            "DELETE",
+            "INSERT"
+        ],
+        "antwort": "UPDATE"
+    },
+    {
+        "frage": "Was bedeutet 'Refactoring' in der Softwareentwicklung?",
+        "optionen": [
+            "Die Verbesserung des Quellcodes ohne die Funktionalität zu verändern",
+            "Das Hinzufügen neuer Features zu einer Software",
+            "Das Testen von Software auf Fehler",
+            "Die Veröffentlichung einer neuen Version der Software"
+        ],
+        "antwort": "Die Verbesserung des Quellcodes ohne die Funktionalität zu verändern"
+    },
+    {
+        "frage": "Welche dieser Verschlüsselungstechniken wird als symmetrische Verschlüsselung bezeichnet?",
+        "optionen": [
+            "AES",
+            "RSA",
+            "SHA-256",
+            "MD5"
+        ],
+        "antwort": "AES"
+    },
+    {
+        "frage": "Was ist der Zweck von 'Garbage Collection' in Programmiersprachen wie Java?",
+        "optionen": [
+            "Automatisches Freigeben von nicht mehr benötigtem Speicher",
+            "Überwachung der Netzwerksicherheit",
+            "Komprimieren von Daten zur Speicheroptimierung",
+            "Verbesserung der Benutzeroberfläche"
+        ],
+        "antwort": "Automatisches Freigeben von nicht mehr benötigtem Speicher"
+    },
+    {
+        "frage": "Welche dieser Methoden wird verwendet, um die Identität eines Benutzers in einem Netzwerk zu bestätigen?",
+        "optionen": [
+            "Authentifizierung",
+            "Autorisierung",
+            "Verschlüsselung",
+            "Tokenisierung"
+        ],
+        "antwort": "Authentifizierung"
+    },
+    {
+        "frage": "Welches dieser Tools wird häufig für Continuous Deployment (CD) verwendet?",
+        "optionen": [
+            "Jenkins",
+            "Nginx",
+            "MySQL",
+            "MongoDB"
+        ],
+        "antwort": "Jenkins"
+    },
+    {
+        "frage": "Was bedeutet der Begriff 'Load Testing'?",
+        "optionen": [
+            "Das Testen der Software unter realistischen Bedingungen mit einer großen Anzahl von Benutzern",
+            "Das Überprüfen des Quellcodes auf Fehler",
+            "Das Optimieren der Datenbankabfragen",
+            "Das Messen der Netzwerksicherheit"
+        ],
+        "antwort": "Das Testen der Software unter realistischen Bedingungen mit einer großen Anzahl von Benutzern"
+    },
+    {
+        "frage": "Welche dieser Anweisungen wird verwendet, um eine Tabelle in SQL zu erstellen?",
+        "optionen": [
+            "CREATE TABLE",
+            "ALTER TABLE",
+            "DROP TABLE",
+            "RENAME TABLE"
+        ],
+        "antwort": "CREATE TABLE"
+    },
+    {
+        "frage": "Welches dieser Tools ist ein Paketmanager für Python?",
+        "optionen": [
+            "pip",
+            "npm",
+            "gem",
+            "apt-get"
+        ],
+        "antwort": "pip"
+    },
+    {
+        "frage": "Was bedeutet 'Recursion' in der Programmierung?",
+        "optionen": [
+            "Eine Funktion, die sich selbst aufruft",
+            "Eine Schleife, die unendlich läuft",
+            "Ein Fehler im Quellcode",
+            "Ein optimierter Algorithmus"
+        ],
+        "antwort": "Eine Funktion, die sich selbst aufruft"
+    },
+    {
+        "frage": "Was ist eine typische Aufgabe eines Netzwerkadministrators?",
+        "optionen": [
+            "Verwalten und Überwachen der Netzwerkinfrastruktur",
+            "Entwickeln von Softwarelösungen",
+            "Optimieren von Datenbankabfragen",
+            "Erstellen von grafischen Benutzeroberflächen"
+        ],
+        "antwort": "Verwalten und Überwachen der Netzwerkinfrastruktur"
+    },
+    {
+        "frage": "Welches dieser Konzepte beschreibt den Prozess der Wiederverwendung von Code?",
+        "optionen": [
+            "Modularisierung",
+            "Komprimierung",
+            "Verschlüsselung",
+            "Autorisierung"
+        ],
+        "antwort": "Modularisierung"
+    },
+    {
+        "frage": "Was bedeutet das Akronym DNS?",
+        "optionen": [
+            "Domain Name System",
+            "Dynamic Network Service",
+            "Digital Network Security",
+            "Domain Network Security"
+        ],
+        "antwort": "Domain Name System"
+    },
+    {
+        "frage": "Welches dieser Konzepte bezieht sich auf den Schutz vor unbefugtem Zugriff auf Informationen?",
+        "optionen": [
+            "Datensicherheit",
+            "Datenintegrität",
+            "Datenkomprimierung",
+            "Datenkonsistenz"
+        ],
+        "antwort": "Datensicherheit"
+    },
+    {
+        "frage": "Welche dieser Techniken wird verwendet, um die Leistung einer Datenbankabfrage zu verbessern?",
+        "optionen": [
+            "Indexierung",
+            "Verschlüsselung",
+            "Komprimierung",
+            "Tokenisierung"
+        ],
+        "antwort": "Indexierung"
+    },
+    {
+        "frage": "Was beschreibt das Konzept der 'Polymorphie' in der objektorientierten Programmierung?",
+        "optionen": [
+            "Die Fähigkeit von Objekten, auf die gleiche Nachricht unterschiedlich zu reagieren",
+            "Das Verbergen von Implementierungsdetails",
+            "Das Erben von Eigenschaften von einer übergeordneten Klasse",
+            "Die Wiederverwendung von Code"
+        ],
+        "antwort": "Die Fähigkeit von Objekten, auf die gleiche Nachricht unterschiedlich zu reagieren"
+    },
+    {
+        "frage": "Welche dieser Technologien wird verwendet, um virtuelle Maschinen zu erstellen und zu verwalten?",
+        "optionen": [
+            "VMware",
+            "Docker",
+            "Kubernetes",
+            "Nginx"
+        ],
+        "antwort": "VMware"
+    },
+    {
+        "frage": "Was ist die Hauptaufgabe von DHCP?",
+        "optionen": [
+            "Zuweisung von IP-Adressen an Geräte im Netzwerk",
+            "Überwachung des Netzwerkverkehrs",
+            "Verschlüsselung von Datenpaketen",
+            "Optimierung der Datenbankabfragen"
+        ],
+        "antwort": "Zuweisung von IP-Adressen an Geräte im Netzwerk"
+    },
+    {
+        "frage": "Welche der folgenden Datenbankoperationen wird verwendet, um Daten zu löschen?",
+        "optionen": [
+            "DELETE",
+            "SELECT",
+            "INSERT",
+            "UPDATE"
+        ],
+        "antwort": "DELETE"
+    },
+    {
+        "frage": "Welche dieser Eigenschaften gehört nicht zur Funktionalen Programmierung?",
+        "optionen": [
+            "Verwendung von globalen Zuständen",
+            "Verwendung von unveränderlichen Daten",
+            "Verwendung von Funktionen als Erstklassige Objekte",
+            "Vermeidung von Seiteneffekten"
+        ],
+        "antwort": "Verwendung von globalen Zuständen"
+    },
+    {
+        "frage": "Was bedeutet der Begriff 'Open Source Software'?",
+        "optionen": [
+            "Software, deren Quellcode öffentlich zugänglich ist und von jedem verwendet, verändert und weiterverbreitet werden kann",
+            "Software, die nur für den internen Gebrauch in Unternehmen entwickelt wird",
+            "Software, die speziell für die Netzwerksicherheit entwickelt wird",
+            "Software, die ausschließlich auf mobilen Geräten verwendet wird"
+        ],
+        "antwort": "Software, deren Quellcode öffentlich zugänglich ist und von jedem verwendet, verändert und weiterverbreitet werden kann"
+    },
+    {
+        "frage": "Welche dieser Technologien wird häufig für die Entwicklung von mobilen Anwendungen verwendet?",
+        "optionen": [
+            "React Native",
+            "Angular",
+            "Laravel",
+            "Django"
+        ],
+        "antwort": "React Native"
+    },
+    {
+        "frage": "Welcher dieser Begriffe steht für ein Modell zur Bereitstellung von Software über das Internet?",
+        "optionen": [
+            "Software as a Service (SaaS)",
+            "Platform as a Service (PaaS)",
+            "Infrastructure as a Service (IaaS)",
+            "Network as a Service (NaaS)"
+        ],
+        "antwort": "Software as a Service (SaaS)"
+    },
+    {
+        "frage": "Was versteht man unter dem Begriff 'BIP'?",
+        "optionen": [
+            "Bruttoinlandsprodukt",
+            "Bruttosozialprodukt",
+            "Bruttoinvestitionsprodukt",
+            "Bruttowertschöpfungsprodukt"
+        ],
+        "antwort": "Bruttoinlandsprodukt"
+    },
+    {
+        "frage": "Welche der folgenden Institutionen ist für die Geldpolitik in der Eurozone verantwortlich?",
+        "optionen": [
+            "Europäische Zentralbank (EZB)",
+            "Internationaler Währungsfonds (IWF)",
+            "Weltbank",
+            "Bundesbank"
+        ],
+        "antwort": "Europäische Zentralbank (EZB)"
+    },
+    {
+        "frage": "Was versteht man unter dem Begriff 'Inflation'?",
+        "optionen": [
+            "Ein Anstieg des allgemeinen Preisniveaus von Waren und Dienstleistungen",
+            "Eine Abnahme des Bruttoinlandsprodukts",
+            "Eine Erhöhung der Zinssätze",
+            "Eine Reduzierung der Staatsausgaben"
+        ],
+        "antwort": "Ein Anstieg des allgemeinen Preisniveaus von Waren und Dienstleistungen"
+    },
+    {
+        "frage": "Was ist das Hauptziel der Sozialversicherungssysteme?",
+        "optionen": [
+            "Sicherung des Lebensstandards und Schutz vor sozialen Risiken",
+            "Erhöhung der Unternehmensgewinne",
+            "Förderung der internationalen Handelsbeziehungen",
+            "Reduzierung der Steuerlast für Unternehmen"
+        ],
+        "antwort": "Sicherung des Lebensstandards und Schutz vor sozialen Risiken"
+    },
+    {
+        "frage": "Welches dieser Modelle beschreibt den Mechanismus der Preisbildung in der Marktwirtschaft?",
+        "optionen": [
+            "Angebot und Nachfrage",
+            "Geld- und Fiskalpolitik",
+            "Kapitalbildung und Investitionen",
+            "Arbeitsmarkt und Löhne"
+        ],
+        "antwort": "Angebot und Nachfrage"
+    },
+    {
+        "frage": "Welche der folgenden Organisationen ist für die Entwicklung der internationalen Handelsregeln verantwortlich?",
+        "optionen": [
+            "Weltwirtschaftsorganisation (WTO)",
+            "Europäische Union (EU)",
+            "Nordatlantikpakt-Organisation (NATO)",
+            "Vereinte Nationen (UN)"
+        ],
+        "antwort": "Weltwirtschaftsorganisation (WTO)"
+    },
+    {
+        "frage": "Was ist ein 'Gleichgewichtspreis' auf einem Markt?",
+        "optionen": [
+            "Der Preis, bei dem Angebot und Nachfrage übereinstimmen",
+            "Der niedrigste Preis, den ein Verkäufer akzeptieren kann",
+            "Der höchste Preis, den ein Käufer bereit ist zu zahlen",
+            "Der Preis, bei dem die Kosten des Unternehmens gedeckt werden"
+        ],
+        "antwort": "Der Preis, bei dem Angebot und Nachfrage übereinstimmen"
+    },
+    {
+        "frage": "Was versteht man unter 'Fiskalpolitik'?",
+        "optionen": [
+            "Die Politik, die sich mit den Einnahmen und Ausgaben des Staates beschäftigt",
+            "Die Regulierung des internationalen Währungsmarktes",
+            "Die Kontrolle der Geldmenge durch die Zentralbank",
+            "Die Festlegung von Mindestlöhnen und Arbeitszeiten"
+        ],
+        "antwort": "Die Politik, die sich mit den Einnahmen und Ausgaben des Staates beschäftigt"
+    },
+    {
+        "frage": "Welcher Begriff beschreibt eine wirtschaftliche Situation, in der hohe Arbeitslosigkeit und gleichzeitig hohe Inflation auftreten?",
+        "optionen": [
+            "Stagflation",
+            "Deflation",
+            "Rezession",
+            "Boom"
+        ],
+        "antwort": "Stagflation"
+    },
+    {
+        "frage": "Was ist der Hauptzweck von Marketing in einem Unternehmen?",
+        "optionen": [
+            "Die Schaffung und Pflege von Kundenbeziehungen",
+            "Die Verbesserung der Produktionsprozesse",
+            "Die Reduzierung der Betriebskosten",
+            "Die Erweiterung des Produktportfolios"
+        ],
+        "antwort": "Die Schaffung und Pflege von Kundenbeziehungen"
+    },
+    {
+        "frage": "Welche der folgenden Aussagen beschreibt den Begriff 'Globalisierung'?",
+        "optionen": [
+            "Die zunehmende weltweite Verflechtung von Märkten und Unternehmen",
+            "Die Einführung nationaler Handelsbarrieren",
+            "Die Reduzierung internationaler Handelsbeziehungen",
+            "Die Begrenzung der technologischen Innovationen"
+        ],
+        "antwort": "Die zunehmende weltweite Verflechtung von Märkten und Unternehmen"
+    },
+    {
+        "frage": "Was bezeichnet man als 'Wachstumsstrategie' eines Unternehmens?",
+        "optionen": [
+            "Strategien zur Erweiterung der Marktanteile und Geschäftstätigkeiten",
+            "Strategien zur Kostensenkung und Effizienzsteigerung",
+            "Strategien zur Reduzierung der Produktionskosten",
+            "Strategien zur Erhöhung der Mitarbeiterzufriedenheit"
+        ],
+        "antwort": "Strategien zur Erweiterung der Marktanteile und Geschäftstätigkeiten"
+    },
+    {
+        "frage": "Was versteht man unter dem Begriff 'Diversifikation' in der Unternehmensstrategie?",
+        "optionen": [
+            "Die Erweiterung des Produkt- oder Dienstleistungsangebots auf neue Märkte",
+            "Die Fokussierung auf ein bestimmtes Marktsegment",
+            "Die Reduzierung der Produktionskapazitäten",
+            "Die Verbesserung der internen Kommunikation"
+        ],
+        "antwort": "Die Erweiterung des Produkt- oder Dienstleistungsangebots auf neue Märkte"
+    },
+    {
+        "frage": "Was ist eine 'Fusion' in der Unternehmenswelt?",
+        "optionen": [
+            "Der Zusammenschluss zweier oder mehrerer Unternehmen zu einem neuen Unternehmen",
+            "Der Verkauf eines Unternehmens an einen externen Investor",
+            "Die Übernahme eines Unternehmens durch ein anderes",
+            "Die Gründung eines neuen Unternehmens durch einen Einzelunternehmer"
+        ],
+        "antwort": "Der Zusammenschluss zweier oder mehrerer Unternehmen zu einem neuen Unternehmen"
+    },
+    {
+        "frage": "Welcher Begriff beschreibt den Marktanteil eines Unternehmens im Vergleich zu seinen Wettbewerbern?",
+        "optionen": [
+            "Marktanteil",
+            "Wettbewerbsanteil",
+            "Marktstellung",
+            "Kundenanteil"
+        ],
+        "antwort": "Marktanteil"
+    },
+    {
+        "frage": "Was versteht man unter 'Outsourcing'?",
+        "optionen": [
+            "Die Auslagerung von Geschäftsprozessen an externe Dienstleister",
+            "Die Erhöhung der internen Produktionseffizienz",
+            "Die Entwicklung neuer Produkte und Dienstleistungen",
+            "Die Einführung neuer Marktstrategien"
+        ],
+        "antwort": "Die Auslagerung von Geschäftsprozessen an externe Dienstleister"
+    },
+    {
+        "frage": "Was bezeichnet man als 'Rendite' im Finanzwesen?",
+        "optionen": [
+            "Den Gewinn, den eine Investition im Verhältnis zum eingesetzten Kapital erzielt",
+            "Die Höhe des investierten Kapitals",
+            "Die Anzahl der Investitionen eines Unternehmens",
+            "Die Gesamtkosten einer Investition"
+        ],
+        "antwort": "Den Gewinn, den eine Investition im Verhältnis zum eingesetzten Kapital erzielt"
+    },
+    {
+        "frage": "Welche Rolle übernimmt eine 'Wirtschaftsprüfung' in einem Unternehmen?",
+        "optionen": [
+            "Überprüfung der finanziellen Berichterstattung und Einhaltung von Vorschriften",
+            "Entwicklung neuer Geschäftsstrategien",
+            "Optimierung der Produktionsprozesse",
+            "Erhöhung der Mitarbeiterzufriedenheit"
+        ],
+        "antwort": "Überprüfung der finanziellen Berichterstattung und Einhaltung von Vorschriften"
+    },
+    {
+        "frage": "Was ist der Hauptunterschied zwischen 'Eigenkapital' und 'Fremdkapital'?",
+        "optionen": [
+            "Eigenkapital wird von den Eigentümern bereitgestellt, während Fremdkapital von externen Gläubigern stammt",
+            "Eigenkapital ist auf Zeit, Fremdkapital ist unbefristet",
+            "Eigenkapital muss nicht zurückgezahlt werden, während Fremdkapital zurückgezahlt werden muss",
+            "Eigenkapital wird für kurzfristige, Fremdkapital für langfristige Investitionen verwendet"
+        ],
+        "antwort": "Eigenkapital wird von den Eigentümern bereitgestellt, während Fremdkapital von externen Gläubigern stammt"
+    },
+    {
+        "frage": "Was beschreibt der Begriff 'Krisenmanagement' in einem Unternehmen?",
+        "optionen": [
+            "Die Maßnahmen zur Bewältigung und Minderung von Krisensituationen",
+            "Die langfristige Planung von Unternehmenszielen",
+            "Die Einführung neuer Produkte und Dienstleistungen",
+            "Die Optimierung der Arbeitsabläufe"
+        ],
+        "antwort": "Die Maßnahmen zur Bewältigung und Minderung von Krisensituationen"
+    },
+    {
+        "frage": "Welcher Begriff beschreibt die Gesamtheit der rechtlichen und wirtschaftlichen Vorschriften, die Unternehmen beachten müssen?",
+        "optionen": [
+            "Regulierung",
+            "Compliance",
+            "Normierung",
+            "Standardisierung"
+        ],
+        "antwort": "Compliance"
+    },
+    {
+        "frage": "Was ist der Hauptzweck von 'Corporate Social Responsibility' (CSR)?",
+        "optionen": [
+            "Die Verantwortung eines Unternehmens für die sozialen und ökologischen Auswirkungen seiner Tätigkeit",
+            "Die Maximierung der Gewinne durch aggressive Marktentwicklung",
+            "Die Erhöhung des Marktanteils durch Fusionen und Übernahmen",
+            "Die Reduzierung der Produktionskosten durch Automatisierung"
+        ],
+        "antwort": "Die Verantwortung eines Unternehmens für die sozialen und ökologischen Auswirkungen seiner Tätigkeit"
+    },
+    {
+        "frage": "Was versteht man unter dem Begriff 'Marktforschung'?",
+        "optionen": [
+            "Die systematische Sammlung und Analyse von Informationen über Märkte und Kunden",
+            "Die Entwicklung neuer Produkte für den Markt",
+            "Die Festlegung von Verkaufspreisen für Produkte",
+            "Die Durchführung von Werbekampagnen"
+        ],
+        "antwort": "Die systematische Sammlung und Analyse von Informationen über Märkte und Kunden"
+    },
+    {
+        "frage": "Welche der folgenden Maßnahmen kann ein Unternehmen ergreifen, um seine Marktposition zu stärken?",
+        "optionen": [
+            "Produktinnovation und Verbesserung des Kundenservice",
+            "Erhöhung der Betriebskosten",
+            "Reduzierung der Marketingaktivitäten",
+            "Einstellung der Produktion"
+        ],
+        "antwort": "Produktinnovation und Verbesserung des Kundenservice"
+    }
+]
